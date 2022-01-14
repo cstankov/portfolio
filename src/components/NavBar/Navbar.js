@@ -9,9 +9,11 @@ import {
   Toolbar,
   ListItem,
   List,
+  Icon,
 } from "@mui/material";
 import MenuIcon from "@mui/icons-material/Menu";
 import { Link } from "react-scroll";
+import logo from "../../images/CSnetworkwhite.png";
 
 const Navbar = () => {
   const [state, setState] = React.useState(false);
@@ -85,6 +87,19 @@ const Navbar = () => {
               </List>{" "}
             </SwipeableDrawer>
           </Box>
+          <Link
+            to="home"
+            smooth={true}
+            spy={true}
+            activeClass="active"
+            duration={500}
+            offset={-60}
+            className="drawerMenuLinks"
+            onClick={handleCloseNavMenu}
+          >
+            <img src={logo} alt="Logo" className="logo"></img>
+          </Link>
+
           <Box
             className="toolbar"
             sx={{ flexGrow: 1, display: { xs: "none", md: "flex" } }}

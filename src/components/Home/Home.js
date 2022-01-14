@@ -1,10 +1,11 @@
 import React from "react";
 import avatar from "../../images/my-avatar.svg";
 import "./Home.css";
+import logo from "../../images/CSnetwork1.png";
 
 const Home = () => {
   return (
-    <section className="homeSection">
+    <section className="homeSection" id="home">
       <div className="homeContainer">
           <h1 className="homeHeader">
             Full-Stack Developer and Software Engineer
