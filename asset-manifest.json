@@ -1,20 +1,42 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.85ba3530.chunk.css",
-    "main.js": "/portfolio/static/js/main.9ba24b19.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.9ba24b19.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.9d851209.chunk.css",
+    "main.js": "/portfolio/static/js/main.5e71a7c8.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.5e71a7c8.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.37da8305.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.37da8305.js.map",
-    "static/js/2.39ea44a6.chunk.js": "/portfolio/static/js/2.39ea44a6.chunk.js",
-    "static/js/2.39ea44a6.chunk.js.map": "/portfolio/static/js/2.39ea44a6.chunk.js.map",
+    "static/js/2.ba9230dc.chunk.js": "/portfolio/static/js/2.ba9230dc.chunk.js",
+    "static/js/2.ba9230dc.chunk.js.map": "/portfolio/static/js/2.ba9230dc.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.85ba3530.chunk.css.map": "/portfolio/static/css/main.85ba3530.chunk.css.map",
-    "static/js/2.39ea44a6.chunk.js.LICENSE.txt": "/portfolio/static/js/2.39ea44a6.chunk.js.LICENSE.txt"
+    "static/css/main.9d851209.chunk.css.map": "/portfolio/static/css/main.9d851209.chunk.css.map",
+    "static/js/2.ba9230dc.chunk.js.LICENSE.txt": "/portfolio/static/js/2.ba9230dc.chunk.js.LICENSE.txt",
+    "static/media/android-studio-icon.8f9a456f.svg": "/portfolio/static/media/android-studio-icon.8f9a456f.svg",
+    "static/media/application-default.97329ae3.png": "/portfolio/static/media/application-default.97329ae3.png",
+    "static/media/c++-icon.48ad2ff0.svg": "/portfolio/static/media/c++-icon.48ad2ff0.svg",
+    "static/media/git-icon.43d387b7.svg": "/portfolio/static/media/git-icon.43d387b7.svg",
+    "static/media/github-icon.2313f606.svg": "/portfolio/static/media/github-icon.2313f606.svg",
+    "static/media/golang-icon.ccb52649.svg": "/portfolio/static/media/golang-icon.ccb52649.svg",
+    "static/media/html-5-icon.c1bb84e0.svg": "/portfolio/static/media/html-5-icon.c1bb84e0.svg",
+    "static/media/intellij-icon.16397e34.svg": "/portfolio/static/media/intellij-icon.16397e34.svg",
+    "static/media/java-icon.5386b56c.svg": "/portfolio/static/media/java-icon.5386b56c.svg",
+    "static/media/javascript-icon.081325c6.svg": "/portfolio/static/media/javascript-icon.081325c6.svg",
+    "static/media/linkedin-icon.6f93e620.svg": "/portfolio/static/media/linkedin-icon.6f93e620.svg",
+    "static/media/mongodb-icon.3beac5ba.svg": "/portfolio/static/media/mongodb-icon.3beac5ba.svg",
+    "static/media/my-avatar.9c9fcf2a.svg": "/portfolio/static/media/my-avatar.9c9fcf2a.svg",
+    "static/media/mysql-icon.c9286640.svg": "/portfolio/static/media/mysql-icon.c9286640.svg",
+    "static/media/node-js-icon.2879fa18.svg": "/portfolio/static/media/node-js-icon.2879fa18.svg",
+    "static/media/postgresql-icon.6d3129da.svg": "/portfolio/static/media/postgresql-icon.6d3129da.svg",
+    "static/media/profilePic.a6755b04.jpg": "/portfolio/static/media/profilePic.a6755b04.jpg",
+    "static/media/python-icon.026a6268.svg": "/portfolio/static/media/python-icon.026a6268.svg",
+    "static/media/react-icon.d725aebe.svg": "/portfolio/static/media/react-icon.d725aebe.svg",
+    "static/media/spring-logo-icon.b39d866e.svg": "/portfolio/static/media/spring-logo-icon.b39d866e.svg",
+    "static/media/visual-studio-code-icon.c95ccce2.svg": "/portfolio/static/media/visual-studio-code-icon.c95ccce2.svg",
+    "static/media/windows-icon.bcc8e04a.svg": "/portfolio/static/media/windows-icon.bcc8e04a.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.37da8305.js",
-    "static/js/2.39ea44a6.chunk.js",
-    "static/css/main.85ba3530.chunk.css",
-    "static/js/main.9ba24b19.chunk.js"
+    "static/js/2.ba9230dc.chunk.js",
+    "static/css/main.9d851209.chunk.css",
+    "static/js/main.5e71a7c8.chunk.js"
   ]
 }
