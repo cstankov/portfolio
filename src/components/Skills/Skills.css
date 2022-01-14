@@ -3,7 +3,6 @@
   justify-content: center;
   width: 100%;
   height: fit-content;
-  margin-top: 50px;
 }
 
 .skillsContainer {
@@ -13,6 +12,7 @@
   background-color: #fff;
   font-size: 0.7rem;
   padding: 48px;
+  margin-top: 50px;
 }
 
 .skillsHeader {
