@@ -1,8 +1,8 @@
 import React from "react";
 import "./Footer.css";
 import profilePic from "../../images/profilePic.jpg";
-import gitHub from "../../images/icons/github-icon.svg";
-import linkedin from "../../images/icons/linkedin-icon.svg";
+import gitHub from "../../images/icons/GitHub-White-64px.png";
+import linkedin from "../../images/icons/linkedin-icon-white.svg";
 
 const Footer = () => {
   let LinkedInurl = "https://www.linkedin.com/in/cole-stankov/";
@@ -18,15 +18,15 @@ const Footer = () => {
           ></img>
         </div>
         <div className="footerSocialContainer">
-          <a href={githuburl} className="socialButton">
-            <img src={gitHub} alt="Github"></img>
+          <a href={githuburl}>
+            <img src={gitHub} alt="Github" id="github"></img>
           </a>
-          <a href={LinkedInurl} className="socialButton">
-              <img src={linkedin} alt="LinkedIn"></img>
+          <a href={LinkedInurl} >
+              <img src={linkedin} alt="LinkedIn" id="linkdin"></img>
           </a>
         </div>
         <div className="footerCopyRight">
-            <p>&#169; Cole Stankov 2022</p>
+            <p className="copyRight">&#169; Cole Stankov 2022</p>
         </div>
       </div>
     </section>
