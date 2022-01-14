@@ -1,0 +1,43 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+p {
+  font-family: "eurostile", sans-serif;
+  color: #141c3a;
+}
+
+.homeSection {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.homeContainer {
+  text-align: center;
+  flex-grow: 1;
+  flex-shrink: 0;
+  margin: 0 auto;
+  padding: 3rem 1.5rem;
+  background-color: rgba(255, 0, 0, 0.0);
+  margin-bottom: 30px;
+}
+
+.homeHeader {
+  font-size: 2.5rem;
+  padding: 10px;
+}
+
+.homeSubHeader {
+  font-size: 1.2rem;
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.avatar {
+  max-width: 300px;
+  margin: 50px auto;
+}

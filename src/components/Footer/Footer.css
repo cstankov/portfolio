@@ -1,0 +1,31 @@
+.footerSection {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  width: 100%;
+  height: fit-content;
+  background-color: #94ddf7;
+}
+
+.footerContainer {
+  text-align: center;
+}
+
+.footerPictureContainer {
+  margin-top: 20px;
+}
+
+.footerPicture {
+  max-width: 100px;
+  border-radius: 50%;
+}
+
+.footerSocialContainer {
+}
+
+.socialButton {
+}
+
+.footerCopyRight {
+    padding: 5px;
+}

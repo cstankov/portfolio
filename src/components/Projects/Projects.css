@@ -1,0 +1,43 @@
+.projectsSection {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 100%;
+  height: fit-content;
+  margin-bottom: 300px;
+  background-color: white;
+}
+
+.projectsIntroContainer {
+  width: 100%;
+  height: fit-content;
+  flex-direction: column;
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-color: black;
+  padding: 10rem;
+}
+
+.projectsHeader {
+  color: white;
+  font-size: 2rem;
+  margin-top: -1.3em;
+}
+
+.projectsDisclaimer {
+  max-width: 800px;
+  font-size: 1.2rem;
+  margin: 0 auto;
+  padding: 10px;
+  color: #fff;
+}
+
+.projectsContainer {
+  margin-top: -120px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: 1500px;
+}
