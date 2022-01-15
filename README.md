@@ -1,8 +1,6 @@
 # [My Portfolio](https://colestankov.com/)
 
-This is a lightweight, single-page personal porfolio website to display a little bit about me.\
-It was built using ReactJs and CSS and hosted on github pages.\
-It contains information about the skills I have aquired along with some example projects that I have made throughout the years.
+This is a lightweight, single-page personal porfolio website to display a little bit about me. It was built using ReactJs and CSS and hosted on github pages. It contains information about the skills I have aquired along with some example projects that I have made throughout the years.
 
 ## This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
