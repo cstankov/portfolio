@@ -20,7 +20,6 @@ import vscode from "../../images/icons/visual-studio-code-icon.svg";
 import android from "../../images/icons/android-studio-icon.svg";
 import git from "../../images/icons/git-icon.svg";
 
-
 const Skills = () => {
   return (
     <section className="skillsSection" id="Skills">

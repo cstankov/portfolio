@@ -7,7 +7,6 @@ const Contact = () => {
 
   const sendEmail = (e) => {
     e.preventDefault();
-
     emailjs
       .sendForm(
         "service_sumgi5n",
@@ -32,26 +31,16 @@ const Contact = () => {
         <form ref={form} onSubmit={sendEmail} className="contactForm">
           <ul className="contactForm">
             <li>
-              <input
-                classname="contactInput"
-                type="text"
-                name="user_name"
-                placeholder="Name"
-              />
+              <input type="text" name="user_name" placeholder="Name" />
             </li>
             <li>
-              <input
-                classname="contactInput"
-                type="email"
-                name="user_email"
-                placeholder="Email"
-              />
+              <input type="email" name="user_email" placeholder="Email" />
             </li>
             <li>
               <textarea name="message" placeholder="Message" />
             </li>
             <li>
-              <input classname="contactInput" type="submit" value="Send" />
+              <input type="submit" value="Send" />
             </li>
           </ul>
         </form>

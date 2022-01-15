@@ -1,11 +1,7 @@
 import React from "react";
 import "./ProjectCard.css";
-import Card from "@mui/material/Card";
-import CardActions from "@mui/material/CardActions";
-import CardContent from "@mui/material/CardContent";
-import { CardMedia } from "@mui/material";
-import Typography from "@mui/material/Typography";
-import gitHub from "../../../images/icons/GitHub-Mark-32px.png";
+import { Card, CardActions, CardMedia, CardContent, Typography } from "@mui/material";
+import gitHub from "../../../images/icons/GitHub-Black-32px.png";
 
 const ProjectCard = ({ name, description, picture, tech, url }) => {
   return (
@@ -14,7 +10,6 @@ const ProjectCard = ({ name, description, picture, tech, url }) => {
       <CardContent>
         <Typography sx={{ fontSize: 20 }}>{name}</Typography>
         <Typography
-          className="description"
           sx={{ fontSize: 14 }}
           color="text.secondary"
           gutterBottom

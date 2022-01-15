@@ -1,4 +1,8 @@
-// CBR Manager
+// URLs
+export const LINKEDIN_URL = "https://www.linkedin.com/in/cole-stankov/";
+export const GITHUB_URL = "https://github.com/cstankov";
+
+// CBR Manager Constants
 export const CBR_NAME = "CBR Manager";
 export const CBR_DESCRIPTION =
   "The amazing website that you are currently viewing which is currently being hosted on Github pages.";
@@ -79,5 +83,4 @@ export const GEOBRAWL_NAME = "Geometry Brawl";
 export const GEOBRAWL_DESCRIPTION1 =
   "The amazing website that you are currently viewing which is currently being hosted on Github pages.";
 export const GEOBRAWL_TECH = "Javascript, HTML, CSS";
-export const GEOBRAWL_GITHUB_LINK =
-  "https://github.com/cstankov/GeometryBrawl";
+export const GEOBRAWL_GITHUB_LINK = "https://github.com/cstankov/GeometryBrawl";

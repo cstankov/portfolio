@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import "./Navbar.css";
 import {
   AppBar,
@@ -9,15 +9,12 @@ import {
   Toolbar,
   ListItem,
   List,
-  Icon,
 } from "@mui/material";
 import MenuIcon from "@mui/icons-material/Menu";
 import { Link } from "react-scroll";
 import logo from "../../images/CSnetworkwhite.png";
 
 const Navbar = () => {
-  const [state, setState] = React.useState(false);
-
   const sections = ["About", "Skills", "Projects", "Contact"];
   const [anchorElNav, setAnchorElNav] = React.useState(null);
   const handleOpenNavMenu = (event) => {
@@ -35,8 +32,6 @@ const Navbar = () => {
     ) {
       return;
     }
-
-    setState(true);
   };
 
   return (

@@ -20,9 +20,9 @@ p {
   flex-grow: 1;
   flex-shrink: 0;
   margin: 0 auto;
+  margin-bottom: 30px;
   padding: 3rem 1.5rem;
   background-color: rgba(255, 0, 0, 0);
-  margin-bottom: 30px;
 }
 
 .homeHeader {
@@ -31,8 +31,8 @@ p {
 }
 
 .homeSubHeader {
-  font-size: 1.2rem;
   max-width: 700px;
+  font-size: 1.2rem;
   margin: 0 auto;
   padding: 10px;
 }

@@ -3,25 +3,24 @@ import "./Footer.css";
 import profilePic from "../../images/profilePic.jpg";
 import gitHub from "../../images/icons/GitHub-White-64px.png";
 import linkedin from "../../images/icons/linkedin-icon-white.svg";
+import * as constants from "../../constants/constants";
 
 const Footer = () => {
-  let LinkedInurl = "https://www.linkedin.com/in/cole-stankov/";
-  let githuburl = "https://github.com/cstankov";
   return (
     <section className="footerSection">
       <div className="footerContainer">
         <div className="footerPictureContainer">
           <img
             src={profilePic}
-            alt="Profile Picture"
+            alt="Profile Pic"
             className="footerPicture"
           ></img>
         </div>
         <div className="footerSocialContainer">
-          <a href={githuburl}>
+          <a href={constants.GITHUB_URL}>
             <img src={gitHub} alt="Github" id="github"></img>
           </a>
-          <a href={LinkedInurl} >
+          <a href={constants.LINKEDIN_URL} >
               <img src={linkedin} alt="LinkedIn" id="linkdin"></img>
           </a>
         </div>

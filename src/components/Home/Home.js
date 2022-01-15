@@ -14,7 +14,7 @@ const Home = () => {
             and coding exceptional websites, applications and everything in
             between.
           </p>
-          <img className="avatar" src={avatar}></img> 
+          <img className="avatar" src={avatar} alt="Avatar"></img> 
       </div>
     </section>
   );
