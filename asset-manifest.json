@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.ee9f3bea.chunk.css",
-    "main.js": "/portfolio/static/js/main.42c792cd.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.42c792cd.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.1c9e2c24.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.1c9e2c24.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.37da8305.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.37da8305.js.map",
     "static/js/2.9c5cfc59.chunk.js": "/portfolio/static/js/2.9c5cfc59.chunk.js",
@@ -10,9 +10,16 @@
     "index.html": "/portfolio/index.html",
     "static/css/main.ee9f3bea.chunk.css.map": "/portfolio/static/css/main.ee9f3bea.chunk.css.map",
     "static/js/2.9c5cfc59.chunk.js.LICENSE.txt": "/portfolio/static/js/2.9c5cfc59.chunk.js.LICENSE.txt",
+    "static/media/CBR.0812bda6.png": "/portfolio/static/media/CBR.0812bda6.png",
     "static/media/android-studio-icon.8f9a456f.svg": "/portfolio/static/media/android-studio-icon.8f9a456f.svg",
-    "static/media/application-default.97329ae3.png": "/portfolio/static/media/application-default.97329ae3.png",
     "static/media/c++-icon.48ad2ff0.svg": "/portfolio/static/media/c++-icon.48ad2ff0.svg",
+    "static/media/commentAbuse.18a63329.jpg": "/portfolio/static/media/commentAbuse.18a63329.jpg",
+    "static/media/compiler.fb693ce2.jpg": "/portfolio/static/media/compiler.fb693ce2.jpg",
+    "static/media/covidData.1da3e523.jpg": "/portfolio/static/media/covidData.1da3e523.jpg",
+    "static/media/cryptoAnalysis.0fb438db.jpg": "/portfolio/static/media/cryptoAnalysis.0fb438db.jpg",
+    "static/media/dbms.50ca9273.png": "/portfolio/static/media/dbms.50ca9273.png",
+    "static/media/expenseTracker.ca01e10e.png": "/portfolio/static/media/expenseTracker.ca01e10e.png",
+    "static/media/geometryBrawl.99d70c77.png": "/portfolio/static/media/geometryBrawl.99d70c77.png",
     "static/media/git-icon.43d387b7.svg": "/portfolio/static/media/git-icon.43d387b7.svg",
     "static/media/golang-icon.ccb52649.svg": "/portfolio/static/media/golang-icon.ccb52649.svg",
     "static/media/html-5-icon.c1bb84e0.svg": "/portfolio/static/media/html-5-icon.c1bb84e0.svg",
@@ -22,9 +29,12 @@
     "static/media/linkedin-icon-white.f62209d7.svg": "/portfolio/static/media/linkedin-icon-white.f62209d7.svg",
     "static/media/mongodb-icon.3beac5ba.svg": "/portfolio/static/media/mongodb-icon.3beac5ba.svg",
     "static/media/my-avatar.9c9fcf2a.svg": "/portfolio/static/media/my-avatar.9c9fcf2a.svg",
+    "static/media/my-portfolio.fd3aeeed.png": "/portfolio/static/media/my-portfolio.fd3aeeed.png",
     "static/media/mysql-icon.c9286640.svg": "/portfolio/static/media/mysql-icon.c9286640.svg",
     "static/media/node-js-icon.2879fa18.svg": "/portfolio/static/media/node-js-icon.2879fa18.svg",
+    "static/media/noteapp.0f987f7c.png": "/portfolio/static/media/noteapp.0f987f7c.png",
     "static/media/postgresql-icon.6d3129da.svg": "/portfolio/static/media/postgresql-icon.6d3129da.svg",
+    "static/media/pristineBlinds.fb60a563.png": "/portfolio/static/media/pristineBlinds.fb60a563.png",
     "static/media/profilePic.a6755b04.jpg": "/portfolio/static/media/profilePic.a6755b04.jpg",
     "static/media/python-icon.026a6268.svg": "/portfolio/static/media/python-icon.026a6268.svg",
     "static/media/react-icon.d725aebe.svg": "/portfolio/static/media/react-icon.d725aebe.svg",
@@ -36,6 +46,6 @@
     "static/js/runtime-main.37da8305.js",
     "static/js/2.9c5cfc59.chunk.js",
     "static/css/main.ee9f3bea.chunk.css",
-    "static/js/main.42c792cd.chunk.js"
+    "static/js/main.1c9e2c24.chunk.js"
   ]
 }
