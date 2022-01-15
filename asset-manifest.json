@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.ee9f3bea.chunk.css",
-    "main.js": "/portfolio/static/js/main.1c9e2c24.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.1c9e2c24.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.7aab43b8.chunk.css",
+    "main.js": "/portfolio/static/js/main.40d1374f.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.40d1374f.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.37da8305.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.37da8305.js.map",
-    "static/js/2.9c5cfc59.chunk.js": "/portfolio/static/js/2.9c5cfc59.chunk.js",
-    "static/js/2.9c5cfc59.chunk.js.map": "/portfolio/static/js/2.9c5cfc59.chunk.js.map",
+    "static/js/2.143f4592.chunk.js": "/portfolio/static/js/2.143f4592.chunk.js",
+    "static/js/2.143f4592.chunk.js.map": "/portfolio/static/js/2.143f4592.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.ee9f3bea.chunk.css.map": "/portfolio/static/css/main.ee9f3bea.chunk.css.map",
-    "static/js/2.9c5cfc59.chunk.js.LICENSE.txt": "/portfolio/static/js/2.9c5cfc59.chunk.js.LICENSE.txt",
+    "static/css/main.7aab43b8.chunk.css.map": "/portfolio/static/css/main.7aab43b8.chunk.css.map",
+    "static/js/2.143f4592.chunk.js.LICENSE.txt": "/portfolio/static/js/2.143f4592.chunk.js.LICENSE.txt",
     "static/media/CBR.0812bda6.png": "/portfolio/static/media/CBR.0812bda6.png",
     "static/media/android-studio-icon.8f9a456f.svg": "/portfolio/static/media/android-studio-icon.8f9a456f.svg",
     "static/media/c++-icon.48ad2ff0.svg": "/portfolio/static/media/c++-icon.48ad2ff0.svg",
@@ -44,8 +44,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.37da8305.js",
-    "static/js/2.9c5cfc59.chunk.js",
-    "static/css/main.ee9f3bea.chunk.css",
-    "static/js/main.1c9e2c24.chunk.js"
+    "static/js/2.143f4592.chunk.js",
+    "static/css/main.7aab43b8.chunk.css",
+    "static/js/main.40d1374f.chunk.js"
   ]
 }
