@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.7aab43b8.chunk.css",
-    "main.js": "/static/js/main.35600075.chunk.js",
-    "main.js.map": "/static/js/main.35600075.chunk.js.map",
+    "main.css": "/static/css/main.29c25272.chunk.css",
+    "main.js": "/static/js/main.d7a3630a.chunk.js",
+    "main.js.map": "/static/js/main.d7a3630a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f027f2bf.js",
     "runtime-main.js.map": "/static/js/runtime-main.f027f2bf.js.map",
     "static/js/2.143f4592.chunk.js": "/static/js/2.143f4592.chunk.js",
     "static/js/2.143f4592.chunk.js.map": "/static/js/2.143f4592.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.7aab43b8.chunk.css.map": "/static/css/main.7aab43b8.chunk.css.map",
+    "static/css/main.29c25272.chunk.css.map": "/static/css/main.29c25272.chunk.css.map",
     "static/js/2.143f4592.chunk.js.LICENSE.txt": "/static/js/2.143f4592.chunk.js.LICENSE.txt",
     "static/media/CBR.0812bda6.png": "/static/media/CBR.0812bda6.png",
+    "static/media/Resume-Cole-Public.a7a22856.pdf": "/static/media/Resume-Cole-Public.a7a22856.pdf",
     "static/media/android-studio-icon.8f9a456f.svg": "/static/media/android-studio-icon.8f9a456f.svg",
     "static/media/c++-icon.48ad2ff0.svg": "/static/media/c++-icon.48ad2ff0.svg",
     "static/media/commentAbuse.18a63329.jpg": "/static/media/commentAbuse.18a63329.jpg",
@@ -18,6 +19,7 @@
     "static/media/covidData.1da3e523.jpg": "/static/media/covidData.1da3e523.jpg",
     "static/media/cryptoAnalysis.0fb438db.jpg": "/static/media/cryptoAnalysis.0fb438db.jpg",
     "static/media/dbms.50ca9273.png": "/static/media/dbms.50ca9273.png",
+    "static/media/docker-icon.c49ffb5c.svg": "/static/media/docker-icon.c49ffb5c.svg",
     "static/media/expenseTracker.ca01e10e.png": "/static/media/expenseTracker.ca01e10e.png",
     "static/media/geometryBrawl.99d70c77.png": "/static/media/geometryBrawl.99d70c77.png",
     "static/media/git-icon.43d387b7.svg": "/static/media/git-icon.43d387b7.svg",
@@ -38,6 +40,7 @@
     "static/media/profilePic.a6755b04.jpg": "/static/media/profilePic.a6755b04.jpg",
     "static/media/python-icon.026a6268.svg": "/static/media/python-icon.026a6268.svg",
     "static/media/react-icon.d725aebe.svg": "/static/media/react-icon.d725aebe.svg",
+    "static/media/redux-icon.0a4a6ca2.svg": "/static/media/redux-icon.0a4a6ca2.svg",
     "static/media/spring-logo-icon.b39d866e.svg": "/static/media/spring-logo-icon.b39d866e.svg",
     "static/media/visual-studio-code-icon.c95ccce2.svg": "/static/media/visual-studio-code-icon.c95ccce2.svg",
     "static/media/windows-icon.bcc8e04a.svg": "/static/media/windows-icon.bcc8e04a.svg"
@@ -45,7 +48,7 @@
   "entrypoints": [
     "static/js/runtime-main.f027f2bf.js",
     "static/js/2.143f4592.chunk.js",
-    "static/css/main.7aab43b8.chunk.css",
-    "static/js/main.35600075.chunk.js"
+    "static/css/main.29c25272.chunk.css",
+    "static/js/main.d7a3630a.chunk.js"
   ]
 }
