@@ -25,7 +25,7 @@ const Footer = () => {
           </a>
         </div>
         <div className="footerCopyRight">
-            <p className="copyRight">&#169; Cole Stankov 2022</p>
+            <p className="copyRight">Cole Stankov 2022</p>
         </div>
       </div>
     </section>

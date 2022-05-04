@@ -3,7 +3,8 @@
   justify-content: center;
   text-align: center;
   flex-wrap: wrap;
-  max-width: 400px;
+  max-width: 25em;
+  width: 75vw;
   margin: 2em;
   border-radius: 50px;
   border: 4px solid black;

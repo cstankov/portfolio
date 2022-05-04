@@ -19,6 +19,8 @@ import intellij from "../../images/icons/intellij-icon.svg";
 import vscode from "../../images/icons/visual-studio-code-icon.svg";
 import android from "../../images/icons/android-studio-icon.svg";
 import git from "../../images/icons/git-icon.svg";
+import docker from "../../images/icons/docker-icon.svg";
+import redux from "../../images/icons/redux-icon.svg";
 
 const Skills = () => {
   return (
@@ -72,13 +74,13 @@ const Skills = () => {
             <li>
               <div className="skillItemContainer">
                 <img src={reactjs} alt="ReactJS"></img>
-                <p>ReactJs</p>
+                <p>ReactJS</p>
               </div>
             </li>
             <li>
               <div className="skillItemContainer">
                 <img src={nodejs} alt="NodeJs"></img>
-                <p>NodeJs</p>
+                <p>Node.js</p>
               </div>
             </li>
             <li>
@@ -96,7 +98,7 @@ const Skills = () => {
             <li>
               <div className="skillItemContainer">
                 <img src={postgres} alt="Postgresql"></img>
-                <p>Postgresql</p>
+                <p>PostgreSQL</p>
               </div>
             </li>
             <li>
@@ -139,6 +141,18 @@ const Skills = () => {
               <div className="skillItemContainer">
                 <img src={git} alt="Git"></img>
                 <p>Git</p>
+              </div>
+            </li>
+            <li>
+              <div className="skillItemContainer">
+                <img src={docker} alt="Docker"></img>
+                <p>Docker</p>
+              </div>
+            </li>
+            <li>
+              <div className="skillItemContainer">
+                <img src={redux} alt="Redux"></img>
+                <p>Redux</p>
               </div>
             </li>
           </ul>

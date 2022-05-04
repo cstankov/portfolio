@@ -16,7 +16,10 @@ p {
 }
 
 .homeContainer {
+  display: flex;
+  flex-direction: column;
   text-align: center;
+  align-items: center;
   flex-grow: 1;
   flex-shrink: 0;
   margin: 0 auto;
@@ -40,4 +43,36 @@ p {
 .avatar {
   max-width: 300px;
   margin: 50px auto;
+}
+
+.resumeDiv {
+  background: #000;
+  width: fit-content;
+  padding: 1em;
+}
+
+.resume {
+  max-width: fit-content;
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+  background-color: transparent;
+  letter-spacing: 0.15em;
+  text-decoration: none;
+}
+
+.resume:after {
+  position: relative;
+  display: block;
+  content: "";
+  width: 0;
+  height: 2px;
+  background: none repeat scroll 0 0 transparent;
+  background: #fff;
+  left: 50%;
+  transition: width 0.3s ease 0s, left 0.3s ease 0s;
+}
+.resume:hover:after {
+  width: 100%;
+  left: 0;
 }

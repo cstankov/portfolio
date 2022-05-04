@@ -6,14 +6,14 @@ export const GITHUB_URL = "https://github.com/cstankov";
 export const CBR_NAME = "MyCBR Manager";
 export const CBR_DESCRIPTION =
   "Worked directly with members of the Hope Health Action charity in an agile development environment in a team of six to design and create MyCBR. MyCBR helps the CBR worker schedule, maintain and analyze clients for purpose of rehabilitation.";
-export const CBR_TECH = "Android Studio, Java";
+export const CBR_TECH = "Android Studio, Java, PostgreSQL";
 export const CBR_GITHUB_LINK = "https://github.com/cstankov/CBR-Manager";
 
 // Portfolio Constants
 export const PORTFOLIO_NAME = "Portfolio Website";
 export const PORTFOLIO_DESCRIPTION1 =
   "The amazing website that you are currently viewing which is currently being hosted on Github pages.";
-export const PORTFOLIO_TECH = "ReactJs, HTML, CSS";
+export const PORTFOLIO_TECH = "ReactJS, HTML, CSS";
 export const PORTFOLIO_GITHUB_LINK =
   "https://github.com/cstankov/portfolio/tree/master";
 
@@ -21,7 +21,7 @@ export const PORTFOLIO_GITHUB_LINK =
 export const EX_TRACKER_NAME = "Expense Tracker";
 export const EX_TRACKER_DESCRIPTION1 =
   "The expense tracker is an easy-to-use application that records all your monthly expenses which you can add, edit and delete them at anytime. Your expense costs are also displayed by charts using charts.js.";
-export const EX_TRACKER_TECH = "ReactJs, HTML, CSS, MongoDB";
+export const EX_TRACKER_TECH = "ReactJS, HTML, CSS, MongoDB, Node.js";
 export const EX_TRACKER_GITHUB_LINK =
   "https://github.com/cstankov/ExpenseTracker";
 
@@ -29,14 +29,14 @@ export const EX_TRACKER_GITHUB_LINK =
 export const COVID_MINING_NAME = "Data Mining - COVID-19";
 export const COVID_MINING_DESCRIPTION1 =
   "Performed an exploratory data analysis on a COVID-19 dataset with the use of statistics and plots. After we utilized Sklearn’s Linear SVM, random forest and a LGBM classifier to predict the outcome of a patient and to do a comparative analysis on the models.";
-export const COVID_MINING_TECH = "Python, Jupyter Notebook";
+export const COVID_MINING_TECH = "Python, Jupyter Notebook, Sklearn";
 export const COVID_MINING_GITHUB_LINK =
   "https://github.com/cstankov/COVID19-DataMining";
 
 // Database Management Systems constants
 export const DBMS_NAME = "YASE - Database Management System";
 export const DBMS_DESCRIPTION1 =
-  "YASE is a fully working database management system that utalizes a skiplist for indexing and contains fully functional logging. GoogleTest was used in our test-driven environment.";
+  "YASE is a fully working database management system that utilizes a skiplist for indexing and contains fully functional logging. GoogleTest was used in our test-driven environment.";
 export const DBMS_TECH = "C++, Google Test, CMake";
 export const DBMS_GITHUB_LINK = "https://github.com/cstankov/CMPT454";
 
@@ -44,7 +44,7 @@ export const DBMS_GITHUB_LINK = "https://github.com/cstankov/CMPT454";
 export const NOTE_APP_NAME = "NoteApp";
 export const NOTE_APP_DESCRIPTION1 =
   "NoteApp is a web-based video note taking application. A user can add personal notes, like comments, as they play the video and later be able to view these notes while the video is being played back with their asssociated timestamp.";
-export const NOTE_APP_TECH = "Javascript, HTML, CSS, EJS";
+export const NOTE_APP_TECH = "Javascript, HTML, CSS, EJS, Node.js";
 export const NOTE_APP_GITHUB_LINK = "https://github.com/cstankov/NoteApp";
 
 // Comment Abuse Tracker constants
@@ -82,7 +82,7 @@ export const CRYPTO_ANAL_GITHUB_LINK =
 export const GEOBRAWL_NAME = "Geometry Brawl";
 export const GEOBRAWL_DESCRIPTION1 =
   "Geometry brawl is a online multiplayer shooter which allows the player to join the server and start playing at anytime. Each players bullet trajectory is affected by the current weather and wind conditions in Burnaby B.C. by the use of Darksky's weather api.";
-export const GEOBRAWL_TECH = "Javascript, HTML, CSS";
+export const GEOBRAWL_TECH = "Javascript, HTML, CSS, Node.js";
 export const GEOBRAWL_GITHUB_LINK = "https://github.com/cstankov/GeometryBrawl";
 
 
